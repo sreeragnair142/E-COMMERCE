@@ -46,7 +46,7 @@ export default function SigninScreen() {
                     <input type="email" placeholder='Enter email' onChange={(e) => { setEmail(e.target.value) }} required />
                 </div>
                 <div>
-                    <label htmlFor="password">Email Address</label>
+                    <label htmlFor="password">Password</label>
                     <input type="password" placeholder='Enter password' onChange={(e) => { setPassword(e.target.value) }} required />
                 </div>
                 <div>

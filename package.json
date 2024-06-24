@@ -1,4 +1,4 @@
-{
+    {
     "name": "amazone_clone",
     "type": "module",
     "version": "1.0.0",
@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/abhishek-p-s/Amazone.git"
+        "url": "git+https://github.com/sreerag-o-s/Amazone.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/abhishek-p-s/Amazone/issues"
+        "url": "https://github.com/sreerag-o-s/Amazone/issues"
     },
-    "homepage": "https://github.com/abhishek-p-s/Amazone#readme",
+    "homepage": "https://github.com/sreerag-o-s/Amazone#readme",
     "dependencies": {
         "bcrypt": "^5.0.1",
         "dotenv": "^16.0.0",

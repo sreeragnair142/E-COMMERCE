@@ -21,7 +21,7 @@ body {
 
 header {
     grid-area: header;
-    background-color: #203040;
+    background-color: #042a2a;
 }
 
 main {
@@ -267,3 +267,22 @@ img.small {
     border-top-color: #f08000;
     color: #f08000;
 }
+
+
+
+
+
+#icon{
+    width: 30px;
+    cursor: pointer;
+    
+}
+
+:root{
+    --primary-color:
+}
+
+
+
+
+

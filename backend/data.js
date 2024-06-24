@@ -3,8 +3,8 @@ import bcrypt from "bcrypt"
 
 const data = {
     users: [{
-            name: "abhishek",
-            email: "abhishek@gmail.com",
+            name: "Sreerag o s",
+            email: "ssreerag@gmail.com",
             password: bcrypt.hashSync('123', 8),
             isAdmin: true
         },
@@ -17,9 +17,9 @@ const data = {
     ],
     products: [{
 
-            name: 'Nike Slim Shirt',
+            name: 'Mens Sleeve Sweater',
             category: 'Shirts',
-            image: '/images/p1.jpg',
+            image: '/images/pexels-fotios-photos-3353621.jpg',
             price: 120,
             countInStock: 10,
             brand: 'Nike',
@@ -29,9 +29,9 @@ const data = {
         },
         {
 
-            name: 'Adidas Fit Shirt',
+            name: 'Prestige Mens Wear',
             category: 'Shirts',
-            image: '/images/p2.jpg',
+            image: '/images/pexels-nina-fiedler-894772640-26110308.jpg',
             price: 100,
             countInStock: 20,
             brand: 'Adidas',
@@ -41,9 +41,9 @@ const data = {
         },
         {
 
-            name: 'Lacoste Free Shirt',
+            name: 'Mens Jeans',
             category: 'Shirts',
-            image: '/images/p3.jpg',
+            image: '/images/pexels-pixabay-52518.jpg',
             price: 220,
             countInStock: 0,
             brand: 'Lacoste',
@@ -53,9 +53,9 @@ const data = {
         },
         {
 
-            name: 'Nike Slim Pant',
+            name: 'Lacoste Free Shirt',
             category: 'Pants',
-            image: '/images/p4.jpg',
+            image: '/images/pexels-anubhaw-anand-3236651.jpg',
             price: 78,
             countInStock: 15,
             brand: 'Nike',
@@ -65,9 +65,9 @@ const data = {
         },
         {
 
-            name: 'Puma Slim Pant',
+            name: 'Striped Loose Fit Top',
             category: 'Pants',
-            image: '/images/p5.jpg',
+            image: '/images/pexels-hazardos-1475418.jpg',
             price: 65,
             countInStock: 5,
             brand: 'Puma',
@@ -77,9 +77,9 @@ const data = {
         },
         {
 
-            name: 'Adidas Fit Pant',
+            name: ' Hoodie For Women',
             category: 'Pants',
-            image: '/images/p6.jpg',
+            image: '/images/pexels-aryane-vilarim-79780-2869073.jpg',
             price: 139,
             countInStock: 12,
             brand: 'Adidas',
